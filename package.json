@@ -34,7 +34,7 @@
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "0.13.0",
-        "multi-hashing": "git://github.com/foxer666/node-multi-hashing.git"
+        "multi-hashing": "git://github.com/vivek121095/node-multi-hashing-ravencoin"
     },
     "engines": {
         "node": ">=8.1.4"
