@@ -33,7 +33,7 @@
     "dependencies": {
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
-        "bignum": "^0.12.5",
+        "bignum": "0.13.0",
         "multi-hashing": "git://github.com/foxer666/node-multi-hashing.git"
     },
     "engines": {
